@@ -10,9 +10,9 @@
 	<header> </header>
 	<nav>
 		<a href="index.html">Pagina Inicial</a>
-		<a href=''>Fotos</a>
-		<a href=''>Vìdeos</a> 
-		<a href=''>Sobre</a> 
+		<a href=''>Fotossss</a>
+		<a href=''>Vìdeosssss</a> 
+		<a href=''>Sobressss</a> 
 		<a href=''>Fale Conosco</a> 
 		<a href="Login.jsp">Login</a>
 		
