@@ -10,7 +10,7 @@
 	<header> </header>
 	<nav>
 		<a href="index.html">Pagina Inicial</a>
-		<a href=''>Fotossss1111</a>
+		<a href=''>Fotossss1111r</a>
 		<a href=''>Vìdeosssss2222</a> 
 		<a href=''>Sobressss33333</a> 
 		<a href=''>Fale Conosco</a> 
